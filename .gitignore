@@ -1,0 +1,21 @@
+
+*.bin
+*.obj
+*.packages
+*.vs
+*.cache
+=======
+# folders
+
+bin
+obj
+packages
+.vs
+
+
+# files
+
+*.user
+*.suo
+
+*.log
